@@ -9,6 +9,7 @@ Add images and gif!!!
 ### Prerequisites:
 Pillow
 ```
+pip install requests
 pip install Pillow
 ```
 Then just run the program 🐢
